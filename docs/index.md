@@ -4,4 +4,4 @@
 ## お受取番号 999 999 999<br>RECEPTION NO.
 以上の内容でお間違えないですか？<br>
 
-[進む](https://curtainch.github.io/curtain-airlines/syuryou.md)
+[進む](https://curtainch.github.io/curtain-airlines/syuryou)
